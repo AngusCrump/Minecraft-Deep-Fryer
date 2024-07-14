@@ -3,8 +3,7 @@
 
 # How to use
  # Dependencies:
-  • ffmpy
-  • ffmpeg
-  • [deep_fried_meme](https://github.com/dinhanhx/deep_fried_meme)
- 
+   - ffmpy
+   - ffmpeg
+   - [deep_fried_meme](https://github.com/dinhanhx/deep_fried_meme)
  
